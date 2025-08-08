@@ -3,7 +3,7 @@
 This project contains a series of Node.js exercises designed to practice core Node concepts including REPL, file system, web server, npm modules, and email functionality.
 
 ---
-
+```markdown
 ## 📁 Project Structure
 g
 nodejs-checkpoint/
@@ -62,7 +62,7 @@ node server.js
 node file-system.js
 node password-generator.js
 node email-sender.js
-
+```
 ---
 
 ## ⚠️ Important Notes
