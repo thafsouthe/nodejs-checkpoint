@@ -7,8 +7,6 @@ This project contains a series of Node.js exercises designed to practice core No
 
 ## 📁 Project Structure
 
-```
-
 nodejs-checkpoint/
 ├── email-sender.js            # Sends an email using Nodemailer
 ├── file-system.js             # Writes and reads files using fs module
@@ -20,9 +18,6 @@ nodejs-checkpoint/
 ├── package.json               # NPM project configuration
 ├── package-lock.json
 └── README.md                  # Project overview and usage
-
-````
-
 ---
 
 ## ✅ Tasks Completed
