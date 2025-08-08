@@ -18,7 +18,7 @@ nodejs-checkpoint/
 ├── package-lock.json
 └── README.md                  # Project overview and usage
 ---
-
+```
 ## ✅ Tasks Completed
 
 ### 1. Hello World
@@ -62,7 +62,7 @@ node server.js
 node file-system.js
 node password-generator.js
 node email-sender.js
-```
+
 ---
 
 ## ⚠️ Important Notes
