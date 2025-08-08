@@ -6,7 +6,7 @@ This project contains a series of Node.js exercises designed to practice core No
 ---
 
 ## 📁 Project Structure
-
+g
 nodejs-checkpoint/
 ├── email-sender.js            # Sends an email using Nodemailer
 ├── file-system.js             # Writes and reads files using fs module
@@ -54,7 +54,6 @@ nodejs-checkpoint/
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
-```bash
 # Install required npm packages
 npm install
 
@@ -64,7 +63,6 @@ node server.js
 node file-system.js
 node password-generator.js
 node email-sender.js
-````
 
 ---
 
